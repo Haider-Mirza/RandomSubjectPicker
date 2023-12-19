@@ -1,0 +1,9 @@
+{
+    "Humanities":["History", "Geography"],
+    "STEM":["Biology", "Chemistry", "Physics", "Mathmatics", "Further Mathmatics"],
+    "Languages":["French", "German", "Mandarin", "English", "Persian"],
+    "English":["English Language", "English Literature"],
+    "Sciences":["Biology", "Chemistry", "Physics"],
+    "Mathmatics":["Mathmatics", "Further Mathmatics"],
+    "Hard":["R.E", "English Language", "English Literature"]
+}
